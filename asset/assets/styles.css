@@ -55,12 +55,12 @@ header .btn-contact:hover {
 
 .btn-launch {
   position: relative;
-  /* background: linear-gradient(90deg, #F4A98D 1.35%, #6BB031 72.52%); */
+  /* background: linear-gradient(90deg, #F4A98D 1.35%, #D04C47 72.52%); */
   /* -webkit-background-clip: text; */
   /* -webkit-text-fill-color: transparent; */
   font-size: .85rem;
   color: #000;
-  background: #6BB031;
+  background: #D04C47;
   border-radius: 25px;
 }
 
@@ -104,7 +104,7 @@ header .btn-contact:hover {
 
 .headertext h2 {
   font-weight: 400;
-  background: linear-gradient(90deg, #ffffff 1.35%, #6BB031 72.52%);
+  background: linear-gradient(90deg, #ffffff 1.35%, #D04C47 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 1.9rem;
@@ -145,7 +145,7 @@ header .btn-contact:hover {
 .choose hr {
   border-radius: 50rem;
   height: 4px;
-  background: linear-gradient(90deg, #F4A98D 0%, #6BB031 100%);
+  background: linear-gradient(90deg, #F4A98D 0%, #D04C47 100%);
   margin-bottom: .5rem;
 }
 
@@ -191,7 +191,7 @@ header .btn-contact:hover {
 }
 
 .choose h3 {
-  /* background: linear-gradient(90deg, #F4A98D 1.35%, #6BB031 72.52%); */
+  /* background: linear-gradient(90deg, #F4A98D 1.35%, #D04C47 72.52%); */
   background-color: #fff;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -295,7 +295,7 @@ header .btn-contact:hover {
 }
 
 .staking h3 {
-  background: linear-gradient(90deg, #F4A98D 1.35%, #6BB031 72.52%);
+  background: linear-gradient(90deg, #F4A98D 1.35%, #D04C47 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 1.5rem;
@@ -323,7 +323,7 @@ header .btn-contact:hover {
 .staking .card-title {
   margin-bottom: 0;
   font-size: 1.8rem;
-  color: #6BB031;
+  color: #D04C47;
   font-weight: 500;
   text-align: center;
 }
@@ -337,12 +337,12 @@ header .btn-contact:hover {
 .whitepaper hr {
   border-radius: 50rem;
   height: 4px;
-  background: linear-gradient(90deg, #F4A98D 0%, #6BB031 100%);
+  background: linear-gradient(90deg, #F4A98D 0%, #D04C47 100%);
   margin-bottom: .5rem;
 }
 
 .whitepaper h3 {
-  /* background: linear-gradient(90deg, #F4A98D 1.35%, #6BB031 72.52%); */
+  /* background: linear-gradient(90deg, #F4A98D 1.35%, #D04C47 72.52%); */
   background-color: #fff;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -369,15 +369,15 @@ header .btn-contact:hover {
   bottom: 0;
   border-radius: 35px;
   padding: 1.5px;
-  border: 1px solid #6BB031;
-  /* background: linear-gradient(45deg, #6BB031, #6BB031); */
+  border: 1px solid #D04C47;
+  /* background: linear-gradient(45deg, #D04C47, #D04C47); */
   /* -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); */
   -webkit-mask-composite: destination-out;
   mask-composite: exclude;
 }
 
 .whitepaper h4 {
-  background: linear-gradient(90deg, #6BB031 1.35%, #6BB031 72.52%);
+  background: linear-gradient(90deg, #D04C47 1.35%, #D04C47 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 1.5rem;
@@ -393,13 +393,13 @@ header .btn-contact:hover {
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background: #6BB031;
+  background: #D04C47;
 }
 
 footer hr {
   border-radius: 50rem;
   height: 3px !important;
-  background: linear-gradient(90deg, #F4A98D 0%, #6BB031 100%);
+  background: linear-gradient(90deg, #F4A98D 0%, #D04C47 100%);
   margin-top: 0;
   margin-bottom: 1.5rem;
 }
@@ -512,7 +512,7 @@ footer img.social {
 }
 
 .f-col {
-  color: #6BB031 !important;
+  color: #D04C47 !important;
 }
 
 .ping {
@@ -546,7 +546,7 @@ footer img.social {
 }
 
 .bg-col {
-  background-color: #6BB031;
+  background-color: #D04C47;
 }
 
 .bg-0 {

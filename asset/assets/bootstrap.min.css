@@ -13,7 +13,7 @@
     --bs-pink: #d63384;
     --bs-red: #dc3545;
     --bs-orange: #fd7e14;
-    --bs-yellow: #6BB031;
+    --bs-yellow: #D04C47;
     --bs-green: #198754;
     --bs-teal: #20c997;
     --bs-cyan: #0dcaf0;
@@ -33,7 +33,7 @@
     --bs-secondary: #6c757d;
     --bs-success: #198754;
     --bs-info: #0dcaf0;
-    --bs-warning: #6BB031;
+    --bs-warning: #D04C47;
     --bs-danger: #dc3545;
     --bs-light: #f8f9fa;
     --bs-dark: #212529;
@@ -3362,14 +3362,14 @@ fieldset:disabled .btn {
 
 .btn-warning {
     color: #000;
-    background-color: #6BB031;
-    border-color: #6BB031
+    background-color: #D04C47;
+    border-color: #D04C47
 }
 
 .btn-warning:hover {
     color: #000;
-    background-color: #6BB031;
-    border-color: #6BB031
+    background-color: #D04C47;
+    border-color: #D04C47
 }
 
 .btn-check:focus+.btn-warning,
@@ -3386,8 +3386,8 @@ fieldset:disabled .btn {
 .btn-warning:active,
 .show>.btn-warning.dropdown-toggle {
     color: #000;
-    background-color: #6BB031;
-    border-color: #6BB031
+    background-color: #D04C47;
+    border-color: #D04C47
 }
 
 .btn-check:active+.btn-warning:focus,
@@ -3401,8 +3401,8 @@ fieldset:disabled .btn {
 .btn-warning.disabled,
 .btn-warning:disabled {
     color: #000;
-    background-color: #6BB031;
-    border-color: #6BB031
+    background-color: #D04C47;
+    border-color: #D04C47
 }
 
 .btn-danger {
@@ -3701,14 +3701,14 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-warning {
-    color: #6BB031;
-    border-color: #6BB031
+    color: #D04C47;
+    border-color: #D04C47
 }
 
 .btn-outline-warning:hover {
     color: #000;
-    background-color: #6BB031;
-    border-color: #6BB031
+    background-color: #D04C47;
+    border-color: #D04C47
 }
 
 .btn-check:focus+.btn-outline-warning,
@@ -3722,8 +3722,8 @@ fieldset:disabled .btn {
 .btn-outline-warning.dropdown-toggle.show,
 .btn-outline-warning:active {
     color: #000;
-    background-color: #6BB031;
-    border-color: #6BB031
+    background-color: #D04C47;
+    border-color: #D04C47
 }
 
 .btn-check:active+.btn-outline-warning:focus,
@@ -3736,7 +3736,7 @@ fieldset:disabled .btn {
 
 .btn-outline-warning.disabled,
 .btn-outline-warning:disabled {
-    color: #6BB031;
+    color: #D04C47;
     background-color: transparent
 }
 
@@ -7286,7 +7286,7 @@ fieldset:disabled .btn {
 }
 
 .link-warning {
-    color: #6BB031
+    color: #D04C47
 }
 
 .link-warning:focus,
@@ -7743,7 +7743,7 @@ fieldset:disabled .btn {
 }
 
 .border-warning {
-    border-color: #6BB031 !important
+    border-color: #D04C47 !important
 }
 
 .border-danger {
